@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="310fd039-a69f-41f6-81d4-4fca3996c49f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/powerpackage/powerfinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/powerpackage/powerfinder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
