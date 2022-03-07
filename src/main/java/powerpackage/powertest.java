@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 public class powertest {
     @Test
-    public void one_raised_to_one_is_onew() {
+    public void one_raised_to_one_is_one() {
         assert powerfinder.OF(1,1) == 1;
     }
 

@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="310fd039-a69f-41f6-81d4-4fca3996c49f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/powerpackage/powerfinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/powerpackage/powerfinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/powertest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/powertest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/powertest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/powerpackage/powertest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +23,18 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -26,7 +42,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="260BtvDbhpeDUH28Xib9jOuWyJE" />
   <component name="ProjectViewState">
@@ -36,13 +52,54 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/powerpackage" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\IdeaProjects\java_conventions\src\main\java" />
+      <recent name="C:\Users\DELL\IdeaProjects\java_conventions\src" />
       <recent name="C:\Users\DELL\IdeaProjects\java_conventions\src\main" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.powertest">
+    <configuration name="powertest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teach-me-java-conventions.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="powerpackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="powerpackage" />
+      <option name="MAIN_CLASS_NAME" value="powerpackage.powertest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="powertest.one_raised_to_one_is_one" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teach-me-java-conventions.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="powerpackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="powerpackage" />
+      <option name="MAIN_CLASS_NAME" value="powerpackage.powertest" />
+      <option name="METHOD_NAME" value="one_raised_to_one_is_one" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.powertest" />
+        <item itemvalue="JUnit.powertest.one_raised_to_one_is_one" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
